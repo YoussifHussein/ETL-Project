@@ -1,0 +1,6 @@
+[
+  {"order_id": 201, "product": "Mouse", "quantity": 10, "price": 20, "date": "2023-01-05", "region": "South"},
+  {"order_id": 202, "product": "monitor", "quantity": 2, "price": 200, "date": "2023-01-06", "region": "South"},
+  {"order_id": 203, "product": "Laptop", "quantity": 1, "price": null, "date": "2023-01-07", "region": "South"},
+  {"order_id": 204, "product": "mouse", "quantity": 1, "price": 20, "date": "2023-01-07", "region": "South"}
+] 
